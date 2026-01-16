@@ -1,0 +1,6 @@
+/* Times New Roman font family for entire site */
+@layer base {
+  * {
+    font-family: 'Times New Roman', Times, serif;
+  }
+}
